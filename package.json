@@ -20,6 +20,6 @@
   },
   "homepage": "http://ffau.readthedocs.io/en/latest/",
   "devDependencies": {
-    "jsdoc": "^3.5.5"
+    "jsdoc": "^3.6.3"
   }
 }
